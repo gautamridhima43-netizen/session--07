@@ -67,7 +67,7 @@ Depending on the individual task, this repository may contain programming exerci
 Clone the repository:
 
 ```bash
-https://github.com/spidey-56-gif/session--7/edit/main/README.md
+https://github.com/gautamridhima43-netizen/session--07/tree/main
 ```
 
 Navigate to the project:
